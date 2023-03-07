@@ -1,11 +1,11 @@
-About rangehttpserver
-=====================
+About rangehttpserver-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rangehttpserver-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/danvk/RangeHTTPServer/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rangehttpserver-feedstock/blob/main/LICENSE.txt)
 
 Summary: SimpleHTTPServer with support for Range requests
 
